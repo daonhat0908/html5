@@ -91,15 +91,38 @@
     background-color: rgba(172, 17, 159, 0.8);
     /* border: 1px solid rgba(0, 0, 0, 0.8); */
     padding: 5px;
-    font-size: 15px;
+    font-size: 1rem;
     text-align: center;
     color: #fff;
+    position: relative;
+}
+
+.text-sp{
+    background-color: #fff;
+    color: #000;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    border-radius: 3px;
 }
 
 .text-item{
     background-color: #fff;
     color: #000;
+    width: 25%;
+    position: absolute;
+    left: 37.5%;
+    border-radius: 3px;
 }
+
+.text-vien{
+    width: 20%;
+    border-style: dotted;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+
 
 
 /* Fooder */
