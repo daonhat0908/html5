@@ -1,0 +1,26 @@
+Bài 1: 
+Sử dụng Slider : Slick hoặc lory
+>> Hiển thị Slider
+Slider trình bày 2 dạng :
++ Slider dạng 1 banner ảnh lớn
++ Slider hiển thị 3 ảnh cùng 1 lúc.
+> Tự động load ảnh sau 3s
+> Responsive trên giao diện điện thoại load từng ảnh 1.
+Bài 2:
+Sử dụng jquery làm giao diện, tab đóng mở : 
+Keywork:  accodion jquery
+
+
+Yêu cầu :
++ Nền tảng Bootstrap/css thuần. + html5
++ Jquery đúng cấu trúc.
++ Hiểu và trình bày được cách làm.
+
+Quý:
+- Nội dung trang chủ e-Gate
+- Xây dựng nội dung - hình ảnh (Phối hợp thiết kế xử lý)
+- Chính sách điều khoản của e-Gate
+- Chính sách điều khoản bảo hành, bảo vệ người dùng
+- Bộ câu hỏi thường gặp - nội dung trả lời sẵn.
+- Bộ tài liệu e-Gate
+- Đưa ra các use case Bảo mật - Team dev đưa ra giải pháp giải quyết vấn đề.
